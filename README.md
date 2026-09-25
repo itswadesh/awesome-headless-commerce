@@ -189,7 +189,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Nacelle](https://nacelle.com) &mdash; Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
 - [Builder.io](https://www.builder.io/) &mdash; Drag and drop visual CMS for your eCommerce storefront.
 - [Plasmic](https://plasmic.app) &mdash; Visual page builder for Next.js, Gatsby, and any other tech stack, so content creators can create landing pages and more without developer involvement.
-- [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) &mdash; Open-source (MIT) SvelteKit storefront that runs against 26 commerce backends, including Medusa, Vendure, Saleor, Shopify and WooCommerce, through connector packages.
+- [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) &mdash; Open-source (MIT) SvelteKit storefront with connector packages for 26 commerce backends, including Vendure, Medusa, Shopify and WooCommerce.
 
 ## Static Site Generators
 
